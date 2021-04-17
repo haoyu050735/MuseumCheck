@@ -4,8 +4,8 @@ background-size: 100%;
 background-repeat: no-repeat;
 }
 #login_frame {
-width: 400px;
-height: 450px;
+width: 450px;
+height: 270px;
 padding: 13px;
 position: absolute;
 left: 50%;
@@ -38,7 +38,7 @@ border-bottom-left-radius: 5px;
 .label_describe {
 font-size: 14px;
 font-family: 黑體;
-width: 350px;
+width: 400px;
 height: 200px;
 line-height: 28px;
 text-align: left;
